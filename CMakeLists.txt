@@ -14,6 +14,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/InfoRobot.msg"
   "srv/AverageVel.srv"
   "srv/Treshold.srv"
+  "srv/TreshExam.srv"
   DEPENDENCIES
  )
 
